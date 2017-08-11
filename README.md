@@ -20,3 +20,4 @@ A bioinformatics pipeline was developed using R language with BiomaRt package to
 4. Removal of paralogous genes within Human
 5. Removal of known pfam genes
 6. Removal of genes that absent the protein sequence (i.e. non-coding genes)
+
