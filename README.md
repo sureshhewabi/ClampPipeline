@@ -1,6 +1,7 @@
 # ClampPipeline
 Finding Orphan Genes from Ensembl Annoations with BioMart R Library
 
+![alt Clamp UI](images/clamp_ui.png)
 ## Comparative Genomic Studies of ORFan genes in Mammalian Genomes
 
 ### Purpose
